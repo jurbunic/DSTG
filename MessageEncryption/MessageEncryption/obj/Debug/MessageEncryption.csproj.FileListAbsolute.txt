@@ -1,0 +1,13 @@
+D:\Development\Desktop\MessageEncryption\MessageEncryption\bin\Debug\MessageEncryption.exe.config
+D:\Development\Desktop\MessageEncryption\MessageEncryption\bin\Debug\MessageEncryption.exe
+D:\Development\Desktop\MessageEncryption\MessageEncryption\bin\Debug\MessageEncryption.pdb
+D:\Development\Desktop\MessageEncryption\MessageEncryption\obj\Debug\MessageEncryption.csprojResolveAssemblyReference.cache
+D:\Development\Desktop\MessageEncryption\MessageEncryption\obj\Debug\MessageEncryption.Form1.resources
+D:\Development\Desktop\MessageEncryption\MessageEncryption\obj\Debug\MessageEncryption.Properties.Resources.resources
+D:\Development\Desktop\MessageEncryption\MessageEncryption\obj\Debug\MessageEncryption.csproj.GenerateResource.Cache
+D:\Development\Desktop\MessageEncryption\MessageEncryption\obj\Debug\MessageEncryption.exe
+D:\Development\Desktop\MessageEncryption\MessageEncryption\obj\Debug\MessageEncryption.pdb
+D:\Development\Desktop\MessageEncryption\MessageEncryption\obj\Debug\MessageEncryption.Posiljatelj.resources
+D:\Development\Desktop\MessageEncryption\MessageEncryption\obj\Debug\MessageEncryption.Primatelj.resources
+D:\Development\Desktop\MessageEncryption\MessageEncryption\obj\Debug\MessageEncryption.Potpis.resources
+D:\Development\Desktop\MessageEncryption\MessageEncryption\obj\Debug\MessageEncryption.Provjeri_potpis.resources
